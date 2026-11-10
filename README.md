@@ -10,5 +10,5 @@ Welcome! This repository holds my long-term vision for my community, school, and
 ## 🚀 Progress
 - [x] Created my GitHub profile
 - [x] Created my first repository
-- [ ] Learn basic Markdown
+- [x] Learn basic Markdown 
 - [ ] Add my first community project idea
