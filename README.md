@@ -11,4 +11,7 @@ Welcome! This repository holds my long-term vision for my community, school, and
 - [x] Created my GitHub profile
 - [x] Created my first repository
 - [x] Learn basic Markdown 
-- [ ] Add my first community project idea
+- [ ] Add my first community project ide
+
+## 📂 My Documents
+*   [Read my full 20-Year Vision Plan](vision.md)
